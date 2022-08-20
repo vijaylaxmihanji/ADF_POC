@@ -1,0 +1,9 @@
+{
+	"name": "adf-vijaya-poc-cicd-git",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1a514de-45dc-4134-ae8b-4e31279b02b0",
+		"tenantId": "43e5deba-2c54-43a4-9a10-c9f10b1c66a5"
+	}
+}
