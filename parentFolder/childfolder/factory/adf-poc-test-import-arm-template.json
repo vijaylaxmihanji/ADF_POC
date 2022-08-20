@@ -1,0 +1,9 @@
+{
+	"name": "adf-poc-test-import-arm-template",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a3ec5ae2-52c6-479a-a6d2-789ddf8828e0",
+		"tenantId": "43e5deba-2c54-43a4-9a10-c9f10b1c66a5"
+	}
+}
